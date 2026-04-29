@@ -28,3 +28,9 @@ color: purple;
 a:visited {
 color: mediumvioletred;
 }
+img {
+border-radius: 8px;
+}
+img:hover {
+transform: scale(1.01);
+}
