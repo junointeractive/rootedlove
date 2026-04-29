@@ -25,7 +25,7 @@ transform: scale(1.01);
 a:active {
 color: purple;
 }
-a:visited {
+h1, h2, h3, a:visited {
 color: mediumvioletred;
 }
 img {
