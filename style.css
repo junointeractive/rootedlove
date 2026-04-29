@@ -9,6 +9,7 @@ text-align: center;
 body {
 margin: 0 20%;
 font-family: "Hepta Slab";
+color: maroon;
 }
 header {
 background-color: lightpink;
@@ -17,7 +18,7 @@ footer {
 background-color: pink;
 }
 a {
-color: maroon;
+color: darkred;
 }
 a:hover {
 transform: scale(1.01);
