@@ -1,3 +1,30 @@
+html {
+background-color: lavenderblush;
+text-align: center;
+}
+@font-face {
+  font-family: "Hepta Slab";
+  src: url("https://fonts.googleapis.com/css2?family=Hepta+Slab&display=swap");
+}
 body {
 margin: 0 20%;
+font-family: "Hepta Slab";
+}
+header {
+background-color: lightpink;
+}
+footer {
+background-color: pink;
+}
+a {
+color: maroon;
+}
+a:hover {
+transform: scale(1.01);
+}
+a:active {
+color: purple;
+}
+a:visited {
+color: mediumvioletred;
 }
